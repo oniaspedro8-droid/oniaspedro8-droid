@@ -1,7 +1,6 @@
 # oniaspedro8-droid
  <div align="center"> <!-- ============ BANNER DE INICIALIZAÇÃO DO SISTEMA ============ --> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0f1a,50:1a1a2e,100:16213e&height=280&section=header&text=PEDRO%20ONIAS&fontSize=70&fontColor=00fff2&fontAlignY=38&desc=%3C%20SYSTEM%20ONLINE%20%2F%2F%20FULL-STACK%20DEVELOPER%20%3E&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/> <!-- ============ TYPING ANIMATION ============ --> <a href="https://git.io/typing-svg"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=800&color=00FFF2&center=true&vCenter=true&width=650&lines=Inicializando+sistema...;Carregando+m%C3%B3dulos+de+IA...;Ol%C3%A1%2C+eu+sou+o+Pedro+%F0%9F%91%8B;Full-Stack+Developer;Sempre+aprendendo+%2F%2F+sempre+evoluindo" alt="Typing SVG" /> </a> <br/> <!-- ============ BADGES DE STATUS ============ --> <img src="https://img.shields.io/badge/STATUS-ONLINE-00fff2?style=for-the-badge&labelColor=0f0f1a&logo=statuspage&logoColor=00fff2"/> <img src="https://img.shields.io/badge/MODO-DESENVOLVEDOR-ff00c8?style=for-the-badge&labelColor=0f0f1a&logo=codefactor&logoColor=ff00c8"/> <img src="https://img.shields.io/badge/LOCALIZA%C3%87%C3%83O-BRASIL-00ff9d?style=for-the-badge&labelColor=0f0f1a&logo=googlemaps&logoColor=00ff9d"/> </div> <br/>
 
-Mostrar Imagem
 
 <!-- ============ SOBRE MIM ============ -->
 > whoami
