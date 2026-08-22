@@ -6,7 +6,7 @@ Mostrar Imagem
 <!-- ============ SOBRE MIM ============ -->
 > whoami
 <img align="right" width="300" src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif">
-yaml
+
 > pedro.status
 Estudante de desenvolvimento web, aprendendo na prática
 com JS, HTML e CSS — um projeto de cada vez. 🚀
